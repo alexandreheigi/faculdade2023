@@ -1,4 +1,13 @@
-h1 {
+.fade {
+    color: rgb(6, 6, 104);
+    font-size: 150%;
+    opacity:0.2;
+
+}
+
+.fade:hover {
     color: blue;
-    font-size: large;
+    font-size: 150%;
+    opacity:2;
+
 }
